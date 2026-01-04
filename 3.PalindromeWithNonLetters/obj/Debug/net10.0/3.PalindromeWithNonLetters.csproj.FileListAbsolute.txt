@@ -1,0 +1,14 @@
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/bin/Debug/net10.0/3.PalindromeWithNonLetters
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/bin/Debug/net10.0/3.PalindromeWithNonLetters.deps.json
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/bin/Debug/net10.0/3.PalindromeWithNonLetters.runtimeconfig.json
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/bin/Debug/net10.0/3.PalindromeWithNonLetters.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/bin/Debug/net10.0/3.PalindromeWithNonLetters.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.AssemblyInfoInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.AssemblyInfo.cs
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.csproj.CoreCompileInputs.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/refint/3.PalindromeWithNonLetters.dll
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.pdb
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/3.PalindromeWithNonLetters.genruntimeconfig.cache
+/Users/user/Documents/1. engineer/1. training/DotNet/3.PalindromeWithNonLetters/3.PalindromeWithNonLetters/obj/Debug/net10.0/ref/3.PalindromeWithNonLetters.dll
