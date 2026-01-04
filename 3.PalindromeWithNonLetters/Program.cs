@@ -49,7 +49,7 @@ class Solution
         Console.WriteLine("Write a palindrome... or not?");
         Console.WriteLine("Special Characters and numbers will be discarded");
         Console.WriteLine("Example: typed: A1b2B!a -> this will validate 'abba'");
-
+        Console.Write(">");
 
         string? code = Console.ReadLine();
 
